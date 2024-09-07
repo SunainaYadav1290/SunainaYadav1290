@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sunaina, a detail-oriented and analytical data analyst with a passion for extracting insights from data. I'm proficient in Python(Pandas,Matplotlib) , SQL, data visualization, Microsoft Excel , PowerBI , Tableau. I'm excited to collaborate on projects that drive business growth and improve decision-making.
+I'm Sunaina, a detail-oriented and analytical data analyst with a passion for extracting insights from data. I'm proficient in Python(Pandas,Matplotlib,Seaborn) , SQL, data visualization, Microsoft Excel , PowerBI , Tableau ,descriptive Statistics. I'm excited to collaborate on projects that drive business growth and improve decision-making.
 
 <!--
 **SunainaYadav1290/SunainaYadav1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
