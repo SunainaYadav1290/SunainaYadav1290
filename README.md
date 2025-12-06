@@ -1,4 +1,4 @@
-## Looking for work
+## Available for remote work
 I'm Sunaina, a detail-oriented and analytical data analyst with a passion for extracting insights from data. I'm proficient in Python(Pandas,Matplotlib,Seaborn) PySpark,Databricks, SQL, data visualization, Microsoft Excel , PowerBI , Tableau and descriptive Statistics. I'm excited to collaborate on projects that drive business growth and improve decision-making.
 
 <!--
