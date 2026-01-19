@@ -1,5 +1,6 @@
 ## Available for remote work
-I'm Sunaina, a detail-oriented and analytical data analyst with a passion for extracting insights from data. I'm proficient in Python(Pandas,Matplotlib,Seaborn) PySpark,Databricks, SQL, data visualization, Microsoft Excel , PowerBI , Tableau and descriptive Statistics. I'm excited to collaborate on projects that drive business growth and improve decision-making.
+Data Professional transitioning to Data Engineering
+SQL | Python | PySpark | Databricks | Data Pipelines
 
 <!--
 **SunainaYadav1290/SunainaYadav1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
