@@ -1,7 +1,6 @@
 ## Available for remote work
-Data Professional transitioning to Data Engineering
-SQL | Python | PySpark | Databricks | Data Pipelines
-
+Aspiring Data Engineer
+SQL | Python | PySpark | Spark | Databricks
 <!--
 **SunainaYadav1290/SunainaYadav1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
